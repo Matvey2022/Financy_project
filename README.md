@@ -27,8 +27,7 @@ This project is all about analyzing trading patterns of blue-chip stocks on the 
 
 ## Why It Matters
 This project shows how to work with real-world financial data to find useful patterns and build trading strategies.
----
 
 
-It was really interesting project!!! 
+ 
 ### Be carefull, in zip file with data more than 10 Gb of txt data....=)
