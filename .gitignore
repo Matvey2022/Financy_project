@@ -2,4 +2,5 @@ venv/
 *.pdf
 data/
 *.csv
+requirements.txt
 
